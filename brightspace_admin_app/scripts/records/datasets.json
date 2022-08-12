@@ -1,0 +1,19 @@
+{
+  "Assignment Summary": "DropboxId",
+  "Calendar Events": "ScheduleId",
+  "Content Objects": "ContentObjectId",
+  "Grade Objects": "GradeObjectId",
+  "Organizational Unit Descendants": [
+    "OrgUnitId",
+    "DescendantOrgUnitId"
+  ],
+  "Organizational Units": "OrgUnitId",
+  "Role Details": "RoleId",
+  "Rubric Assessment": "AssessmentId",
+  "Session History": "HistoryId",
+  "User Enrollments": [
+    "OrgUnitId",
+    "UserId"
+  ],
+  "Users": "UserId"
+}

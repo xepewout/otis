@@ -1,0 +1,9 @@
+Flask
+Flask_RESTful
+pandas
+reportlab
+requests
+openpyxl
+xlsxwriter
+requests
+reportlab
